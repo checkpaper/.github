@@ -4,7 +4,7 @@ We check the papers people are reading right now, and publish only what a reader
 
 ### What we publish
 
-- **Audits.** Weekly checks of trending papers, starting with Hugging Face Daily Papers. Each finding points to the exact table, figure or equation and shows the calculation behind it.
+- **[Audits](https://github.com/checkpaper/audits).** Checks of trending papers, starting with Hugging Face Daily Papers. Each finding points to the exact table, figure or equation and comes with a script that recomputes it from the original PDF.
 - **RetractionBench** (coming soon). Retracted papers in their original form, with the error named in the retraction notice as ground truth. A public test of whether AI reviewers catch the errors that later led to retraction.
 
 ### How we work
